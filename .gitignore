@@ -162,4 +162,4 @@ cython_debug/
 #.idea/
 
 # Exclude directory
-./Fall-Semester/COMP603/LO3/ml-32m/*
+/Fall-Semester/COMP603/LO3/ml-32m/*
