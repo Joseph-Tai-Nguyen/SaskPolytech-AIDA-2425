@@ -165,6 +165,7 @@ cython_debug/
 /Fall-Semester/COMP603/LO3/ml-32m/*
 /Fall-Semester/COMP604/Assign2/olympic-data/*
 /Fall-Semester/COMP604/Assign2/ref/*
+/Fall-Semester/CDBM602/FinalProj/data/*
 
 # Exclude file
 /Fall-Semester/COMP604/Assign2/work/Olympics_Assignment2.xlsx
